@@ -1,8 +1,10 @@
 # Mealer
 
-## The Ottawa-Based Homemeal App
-
+## Homecooked Happiness, Delivered right to Your Door
+<br>
 🍽️ Craving delicious homemade meals without the hassle of cooking? Or perhaps you're a culinary enthusiast looking to share your culinary masterpieces? Look no further – Mealer is here to make your food journey a breeze 
+<br>
+<br>
 
 ![INTRODUCING (1)](https://github.com/JacobMaurice-jm/Mealer/assets/109557146/adab5b19-a424-4094-8f21-7087c3066ea9)
 <br>
