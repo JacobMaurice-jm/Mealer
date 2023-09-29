@@ -31,7 +31,7 @@ Mealer is the app that brings Ottawa's culinary community closer together. Wheth
 Getting this app up and running is a straightforward process! Simply download the APK file and run it directly on your Android device.
   
   ```sh
-  Meal/MealerApp/app-debug.apk
+  Mealer.apk
   ```
 
 <br>
