@@ -5,7 +5,11 @@
 🍽️ Craving delicious homemade meals without the hassle of cooking? Or perhaps you're a culinary enthusiast looking to share your culinary masterpieces? Look no further – Mealer is here to make your food journey a breeze 
 
 ![INTRODUCING (1)](https://github.com/JacobMaurice-jm/Mealer/assets/109557146/adab5b19-a424-4094-8f21-7087c3066ea9)
+<br>
+<br>
 ![INTRODUCING (3)](https://github.com/JacobMaurice-jm/Mealer/assets/109557146/422af7f7-f687-43de-9cac-1b6285da9f35)
+<br>
+<br>
 ![INTRODUCING (4)](https://github.com/JacobMaurice-jm/Mealer/assets/109557146/3b2c162b-eab0-4030-b874-8fcc7d16a18d)
 
 <br>
