@@ -2,7 +2,7 @@
 
 ## Homecooked Happiness, Delivered right to Your Door
 <br>
-🍽️ Craving delicious homemade meals without the hassle of cooking? Or perhaps you're a culinary enthusiast looking to share your culinary masterpieces? Look no further – Mealer is here to make your food journey a breeze 
+Craving delicious homemade meals without the hassle of cooking? Or perhaps you're a culinary enthusiast looking to share your culinary masterpieces? Look no further – Mealer is here to make your food journey a breeze 
 <br>
 <br>
 <br>
