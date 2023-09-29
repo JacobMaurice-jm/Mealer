@@ -22,3 +22,4 @@ suspend the Cook if necessary.
 >   |--|--|
 >   | Password | admin123! |
 
+![INTRODUCING](https://github.com/JacobMaurice-jm/Mealer/assets/109557146/4ea79c4c-f380-4d12-b517-a092decde14a)
